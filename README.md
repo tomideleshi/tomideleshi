@@ -1,4 +1,4 @@
-# Hi, I'm Tomide Leshi 👋
+# Hi, I'm Tomide Leshi 
 
 ## About Me
 Data and Business Analyst based in Calgary, AB with 3+ years of experience 
