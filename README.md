@@ -22,9 +22,14 @@ operations, and environmental sectors.
 | Other | Data Validation, EDA, KPI Tracking, Dashboard Design |
 
 ## Portfolio Projects
-🔗 [Sales Performance Analysis](https://github.com/tomideleshi/sales-performance-analysis) — Python, Pandas, Seaborn, Matplotlib
+🔗 [Sales Performance Analysis](https://github.com/tomideleshi/sales-performance-analysis) 
+— Python, Pandas, Seaborn, Matplotlib
 
-🔗 [Retail Sales Interactive Dashboard](https://github.com/tomideleshi/retail-sales-dashboard) — Google Sheets, Looker Studio, Advanced Excel
+🔗 [Retail Sales Interactive Dashboard](https://github.com/tomideleshi/retail-sales-dashboard) 
+— Google Sheets, Looker Studio, Advanced Excel
+
+🔗 [Customer Orders SQL Analysis](https://github.com/tomideleshi/customer-orders-sql-analysis) 
+— SQL, SQLite, JOIN, GROUP BY, Aggregations
 
 ## Connect With Me
 📧 oa.tleshi@gmail.com
