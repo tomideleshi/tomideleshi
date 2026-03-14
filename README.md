@@ -1,7 +1,7 @@
 # Hi, I'm Tomide Leshi 
 
 ## About Me
-Data and Business Analyst based in Calgary, AB with 3+ years of experience 
+Data professional based in Calgary, AB with 3+ years of experience 
 transforming complex datasets into clear, actionable business insights. 
 Passionate about using data to solve real business problems across IT, 
 operations, and environmental sectors.
@@ -30,6 +30,9 @@ operations, and environmental sectors.
 
 🔗 [Customer Orders SQL Analysis](https://github.com/tomideleshi/customer-orders-sql-analysis) 
 — SQL, SQLite, JOIN, GROUP BY, Aggregations
+
+🔗 [Retail Sales ETL Pipeline](https://github.com/tomideleshi/retail-sales-etl-pipeline) 
+— Python, Pandas, SQLite3, ETL, Data Engineering
 
 ## Connect With Me
 📧 oa.tleshi@gmail.com
