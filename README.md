@@ -1,10 +1,10 @@
 # Hi, I'm Tomide Leshi 
 
 ## About Me
-Data professional based in Calgary, AB with 3+ years of experience 
-transforming complex datasets into clear, actionable business insights. 
-Passionate about using data to solve real business problems across IT, 
-operations, and environmental sectors.
+Data professional based in Calgary, AB with 3+ years of experience transforming complex datasets into clear, actionable 
+business insights. Passionate about using data to solve real business problems across IT, operations, and environmental sectors.
+
+Aspiring to grow into a well-rounded data professional across analytics, engineering and project leadership. Passionate about using data to drive real world impact in the energy environmental and tech sectors.
 
 ## What I Do
 - 📊 Build interactive dashboards in Power BI and Looker Studio
